@@ -1,7 +1,4 @@
-# GUI Downloader
 ## GUI Downloader using Python .
-<br> This Python GUI Downloader offers a straightforward approach for efficiently downloading files . With a minimalist design ,it provides users with an easy-to-use interface .
+<br> This Python Project provides a graphical user interface (GUI) for a downloader application ,allowing users to easily download files from the internet. The application is build using Python and utilizes the Tkinter library for the GUI ,
 <br>
-<br>
-![Screenshot (426)](https://github.com/faiyankhan/GUI-Downloader/assets/144541895/2873f114-baee-45e6-8e40-dc382e89f5d7)
-
+![Screenshot (428)](https://github.com/faiyankhan/GUI-Downloader/assets/144541895/81e3d9a6-7d70-4bf1-ae87-66d99ff83450)
